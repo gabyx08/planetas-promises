@@ -1,0 +1,15 @@
+{
+  "name": "planetas-promesas",
+  "version": "1.0.0",
+  "description": "promesas y ajax",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaby",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "materialize-css": "^0.99.0"
+  }
+}
